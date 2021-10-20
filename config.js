@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'có nha Dzahan đáng yêu :3',
     mess: 'Mình biết mà 🥰. Bạn yêu mình nhiều hehe biết ngay mà mình cũng zậy 😘😘',
     messDesc: 'Mình chia tay cũng được hơn 1 tháng rồi chị nhỉ. Dù vậy nhưng em luôn nghĩ tới chị. Mặc dù, em biết bây giờ nói cũng không có ý nghĩa gì. Nhưng giờ không nói thì em sợ phải nhìn chị bên cạnh người khác. Em muốn hỏi chị là: Mình quay lại nha :3',
-    btnAccept: 'Oki lunnn :3',
+    btnAccept: 'Oki lunnnn :3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //
 }
