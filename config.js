@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "heloo gia sư :3",
-    introTitle: 'Ngọc Lingg',
+    titleWeb: "Ckao Nọc (Cừi nửa miệng) ",
+    introTitle: 'Nọc (Bò)',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao chị cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
+    Mà sao m cứ đi nhầm đường
+    Lạc vào tim t lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^nhấn vào đây nè gia sư khó tính^^',
-    title: 'Dạo này chị có hay bị nhớ tới em khum?',
-    desc: 'Còn em thì dạo này hay nhớ tới chị lắm :3',
-    btnYes: 'Có chứ <33',
+    btnIntro: '^^nhấn vào đây nè bò :(^^',
+    title: 'Phải chăng t đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng t đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Mình còn cơ hội với nhau không chị ?',
-    btnReply: 'Gửi cho Dzahan <3',
-    reply: 'có nha Dzahan đáng yêu :3',
-    mess: 'Mình biết mà 🥰. Bạn yêu mình nhiều hehe biết ngay mà mình cũng zậy 😘😘',
-    messDesc: 'Mình chia tay cũng được hơn 1 tháng rồi chị nhỉ. Dù vậy nhưng em luôn nghĩ tới chị. Mặc dù, em biết bây giờ nói cũng không có ý nghĩa gì. Nhưng giờ không nói thì em sợ phải nhìn chị bên cạnh người khác. Em muốn hỏi chị là: Mình quay lại nha :3',
-    btnAccept: 'Oki lunnn :3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //
+    question: 'Ăn sáng ch :v',
+    btnReply: 'Gửi cho Mei',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 't biết mà 🥰. m thích t nhiều hehe biết ngay mà t cũng zậy 😘😘',
+    messDesc: 'Đừng buồn nữ :v. Chúc mau quen bún riêu :">, Gửi triệu tymmmmm tới m (bò) .',
+    btnAccept: 'iu thưng :v',
+     messLink: 'https://github.com/zukahai/Confess-Crush' //
 }
