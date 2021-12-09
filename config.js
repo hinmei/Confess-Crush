@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 't biết mà 🥰. m thích t nhiều hehe biết ngay mà t cũng zậy 😘😘',
     messDesc: 'Đừng buồn nữ :v. Chúc mau quen bún riêu :">, Gửi triệu tymmmmm tới m (bò) .',
     btnAccept: 'iu thưng :v',
-   
+     messLink: 'https://github.com/zukahai/Confess-Crush' //
 }
